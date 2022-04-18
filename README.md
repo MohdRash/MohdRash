@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohhammed Rasheek M</h1>
-<h3 align="center">I'm a passionate Stack Developer and Linux Enthusiast from India.</h3>
+<h3 align="center">I'm a passionate Stack Developer and Linux Enthusiast from Kerala, India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working in **[Osperb Innovations](https://osperb.com)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
