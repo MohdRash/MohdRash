@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning more deeply on **Nodejs, Web3 and Kernel Development**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I love to help others
+
+- 👯 I love to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of myself are available at **[Portfolio](https://mohdrash.github.io/myself/)**
 - 👨‍💻 Also available at **[Minifolio](https://mohdrash.github.io/minifolio/)**
