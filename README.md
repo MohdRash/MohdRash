@@ -9,7 +9,7 @@
 - 🔭 I’m currently working in **[Osperb Innovations](https://osperb.com)**
 - 🔭 Actively contributing in **[Parrot Project](https://parrotsec.org)**
 
-- 🌱 I’m currently learning more deeply on **Nodejs, Web3 and Kernel Development**
+- 🌱 I’m currently learning more about **Nodejs, Web3 and Kernel Development**
 
 - 👯 I love to help others
 
