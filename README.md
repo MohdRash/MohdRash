@@ -30,11 +30,11 @@
     <a title="Moralis" href="https://moralis.io" target="_blank"> <img src="https://res.cloudinary.com/osperbian/image/upload/v1650266618/myslef_data/moralisWhiteLogo_cropped_fhuro4.png"/> </a>
     <a title="React" href="https://reactjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a title="Next" href="https://nextjs.org" target="_blank"> <img src="https://res.cloudinary.com/osperbian/image/upload/v1650267334/myslef_data/next-js-logo_cropped_vxnmkf.png"/> </a>
-    <a href="https://www.debian.org" target="_blank"> <img src="https://img.icons8.com/color/48/debian.png"/> </a>
-    <a href="https://archlinux.org" target="_blank"> <img src="https://res.cloudinary.com/osperbian/image/upload/v1650266846/myslef_data/arch_cropped_czfkm0.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a title="Debian" href="https://www.debian.org" target="_blank"> <img src="https://img.icons8.com/color/48/debian.png"/> </a>
+    <a title="Arch" href="https://archlinux.org" target="_blank"> <img src="https://res.cloudinary.com/osperbian/image/upload/v1650266846/myslef_data/arch_cropped_czfkm0.png"/> </a>
+    <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a title="HTML5" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a title="CSS" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
