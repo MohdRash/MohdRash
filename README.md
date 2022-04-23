@@ -7,6 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working in **[Osperb Innovations](https://osperb.com)**
+- 🔭 I’m currently contributing in **[Parrot Project](https://parrotsec.org)**
 
 - 🌱 I’m currently learning more deeply on **Nodejs, Web3 and Kernel Development**
 
