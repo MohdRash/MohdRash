@@ -15,8 +15,8 @@
 
 - 👯 I love to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Know me more at **[Portfolio](https://mohdrash.github.io/myself/)**
-- 👨‍💻 Also available at **[Minifolio](https://mohdrash.github.io/minifolio/)**
+- 👨‍💻 Know me more at my **[Portfolio](https://mohdrash.github.io/myself/)**
+- 👨‍💻 Also available at my **[Minifolio](https://mohdrash.github.io/minifolio/)**
 - NOTE: I'm Sorry in advance, both sites are still under development 😅
 
 - 📫 How to reach me: 
