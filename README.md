@@ -27,7 +27,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://moralis.io" target="_blank"> <img src="https://res.cloudinary.com/osperbian/image/upload/v1650266618/myslef_data/moralisWhiteLogo_cropped_fhuro4.png"/> </a>
+    <a title="Moralis" href="https://moralis.io" target="_blank"> <img src="https://res.cloudinary.com/osperbian/image/upload/v1650266618/myslef_data/moralisWhiteLogo_cropped_fhuro4.png"/> </a>
     <a href="https://reactjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://nextjs.org" target="_blank"> <img src="https://res.cloudinary.com/osperbian/image/upload/v1650267334/myslef_data/next-js-logo_cropped_vxnmkf.png"/> </a>
     <a href="https://www.debian.org" target="_blank"> <img src="https://img.icons8.com/color/48/debian.png"/> </a>
