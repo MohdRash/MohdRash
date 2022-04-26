@@ -63,14 +63,14 @@ https://skyline.github.com/mohdrash/2021
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/mohdrash">
+    <a href="https://skyline.github.com/mohdrash/2021">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohammed Rasheek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
   <br/>
-    <a href="https://github.com/mohdrash"><img alt="Mohammed Rasheek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohdrash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mohdrash"><img alt="Mohammed Rasheek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://skyline.github.com/mohdrash/2021"><img alt="Mohammed Rasheek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohdrash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://skyline.github.com/mohdrash/2021"><img alt="Mohammed Rasheek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -78,7 +78,7 @@ https://skyline.github.com/mohdrash/2021
 <br/>
 <br/>
 
-<a href="https://github.com/mohdrash"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohdrash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://skyline.github.com/mohdrash/2021"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohdrash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -97,7 +97,7 @@ https://mohdrash.github.io/Dino_Runner/
 </p>
 
 ## Supports
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://skyline.github.com/mohdrash/2021">
     <img src="https://komarev.com/ghpvc/?username=mohdrash">
 </a>
 <a href="https://github.com/mohdrash?tab=followers"><img src="https://img.shields.io/github/followers/mohdrash?label=Followers&style=social" alt="GitHub Badge"></a>
