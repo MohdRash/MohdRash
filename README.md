@@ -81,7 +81,7 @@
 
 ## Boring ? let's play a game then!
 
-<iframe height="500" width="500" src="https://mohdrash.github.io/Dino_Runner/"></iframe>
+https://mohdrash.github.io/Dino_Runner/
 
 
 ## Connect with me:
