@@ -79,6 +79,10 @@
 <br/>
 <br/>
 
+## Boring ? let's play a game then!
+
+https://mohdrash.github.io/Dino_Runner/
+
 ## Connect with me:
 <p align="left">
 
