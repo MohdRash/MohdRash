@@ -28,7 +28,7 @@
 
 # Watch My Skyline of 2021 :)
 
-https://skyline.github.com/mohdrash/2021
+https://skyline.github.com/mohdrash/2022
 
 ## 🚀 Languages and Tools:
 
