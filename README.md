@@ -92,9 +92,10 @@ https://mohdrash.github.io/Dino_Runner/
 ## Connect with me:
 <p align="left">
 
-<a href = "https://in.linkedin.com/in/mohammed-rasheek-m-4358b8191"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<span><a href = "https://in.linkedin.com/in/mohammed-rasheek-m-4358b8191"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/m__rshk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+</span>
+    
 </p>
 
 ## Supports
