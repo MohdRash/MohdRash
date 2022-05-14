@@ -7,8 +7,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working in **[Osperb Innovations](https://osperb.com)**
-- 🔭 Actively contributing in **[Parrot Project](https://parrotsec.org)**
+<p><img align="right" src="https://user-images.githubusercontent.com/87312799/168414003-30c76d43-b8d5-431c-9525-b4c10ae06455.gif" alt="adam-pw" /></p>
+
+
+- 🔭 I’m currently working as **Myself**
+
+- 🔭 Actively contributing in **Parrot Project**
 
 - 🌱 I’m currently learning more about **Nodejs, Web3 and Kernel Development**
 
