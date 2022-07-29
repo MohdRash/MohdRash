@@ -1,7 +1,7 @@
 <a align="center" href="https://skyline.github.com/mohdrash/2022">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title="MohdRash" width="50%" src="https://res.cloudinary.com/osperbian/image/upload/v1650269405/myslef_data/mohdrash_idgjcb.png" height="55%"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">, I'm Mohammed Rasheek M</h1>
-<h3 align="center">I'm a passionate Stack Developer and Linux Enthusiast from Kerala, India.</h3>
+<h3 align="center">I'm a passionate Stack Developer, Linux Enthusiast and entrepreneur from Kerala, India.</h3>
 
 
 
