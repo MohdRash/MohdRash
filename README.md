@@ -19,6 +19,7 @@
 - 👯 I love to help others
 
 - 👯 I love to collaborate on **OpenSource Projects**
+- Visit my **[NPM PACKAGES](https://www.npmjs.com/~mohdrash) and use them to your projects! 
 
 - 👨‍💻 Know me more at my **[Portfolio](https://mohdrash.github.io/myself/)**
 - 👨‍💻 Also available at my **[Minifolio](https://mohdrash.github.io/minifolio/)**
