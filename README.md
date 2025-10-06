@@ -97,7 +97,7 @@ https://skyline.github.com/mohdrash/2022
 <p align="left">
 
 <a href = "https://in.linkedin.com/in/mohammed-rasheek-m-4358b8191"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/m__rshk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/th4th0m1ew1thac1v1c/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     
 </p>
 
