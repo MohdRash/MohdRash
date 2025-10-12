@@ -10,7 +10,7 @@
 <p><img align="right" src="https://user-images.githubusercontent.com/87312799/168414003-30c76d43-b8d5-431c-9525-b4c10ae06455.gif" alt="adam-pw" /></p>
 
 
-- 🔭 I’m currently working as **Myself**
+- 🔭 co-founder & CTO of **DevMonix Technologies**
 
 - 🔭 Actively contributing in **Parrot Project**
 
