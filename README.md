@@ -13,14 +13,14 @@
 - 🔭 co-founder & CTO of **DevMonix Technologies**
 
 - 🔭 Actively contributing in **Parrot Project** & **DevMonix Technologies**
-- Fork and enjoy some of my projects from **[DevMonix Technologies](https://www.github.com/devmonixtechnologies)
+- Fork and enjoy some of my projects from **[DevMonix Technologies](https://www.github.com/devmonixtechnologies)**
 
 - 🌱 I’m currently learning more about **Nodejs, Web3 and Kernel Development**
 
 - 👯 I love to help others
 
 - 👯 I love to collaborate on **OpenSource Projects**
-- Visit my **[NPM PACKAGES](https://www.npmjs.com/~mohdrash) and implement them in your projects! 
+- Visit my [NPM PACKAGES](https://www.npmjs.com/~mohdrash)** and implement them in your projects! 
 
 - 👨‍💻 Know me more at my **[Portfolio](https://mohdrash.github.io/myself/)**
 - 👨‍💻 Also available at my **[Minifolio](https://mohdrash.github.io/minifolio/)**
