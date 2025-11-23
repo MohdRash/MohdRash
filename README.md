@@ -23,7 +23,7 @@
 - Visit my [NPM PACKAGES](https://www.npmjs.com/~mohdrash)** and implement them in your projects! 
 
 - 👨‍💻 Know me more at my **[Portfolio](https://mohdrash.github.io/myself/)**
-- 👨‍💻 Also available at my **[Minifolio](https://mohdrash.github.io/minifolio/)**
+- 👨‍💻 Also available at my **[My Portfolio in 3D](https://iamicy.vercel.app)**
 - NOTE: I'm Sorry in advance, both sites are still under development 😅
 
 - 📫 How to reach me: 
@@ -31,10 +31,6 @@
 - **iamrasheek00@gmail.com**
 
 - ⚡ Hobbies **Football, Hiking, Traveling, Coding, Listening Musics(especially lofi's), and so on....:)**
-
-# Watch My Skyline of 2022 :)
-
-https://skyline.github.com/mohdrash/2022
 
 ## 🚀 Languages and Tools:
 
@@ -97,7 +93,6 @@ https://skyline.github.com/mohdrash/2022
 <p align="left">
 
 <a href = "https://in.linkedin.com/in/mohammed-rasheek-m-4358b8191"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/th4th0m1ew1thac1v1c/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     
 </p>
 
